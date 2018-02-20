@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+}
+
+.page {
+	width: 100%;
+	margin: auto;
+	position: relative;
+}
+
+.page img {
+	width: 100%;
+}
+
+.hotspot {
+	position: absolute;
+	display: block;
+	text-indent: -9999px;
+}
+
+body:active .hotspot {
+	background-color: rgba(255,0,0,0.5);
+}
+
+.logo {
+	top: 2%;
+	right: 38%;
+	width: 20%;
+	height: 8%;
+}
+
+.search {
+	top: 50%;
+	left: 70%;
+	width: 12%;
+	height: 15%;
+}
+
+.search {}
