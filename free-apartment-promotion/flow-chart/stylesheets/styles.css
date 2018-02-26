@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+.page {
+	width: 100%;
+	margin: auto;
+	position: relative;
+}
+
+.page img {
+	width: 100%;
+}
+
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+  }
