@@ -11,7 +11,12 @@ body {
 .page img {
 	width: 100%;
 }
+.page {
+    font-family:"Impact", Charcoal, sans-serif
+}
 
-.sansserif {
-    font-family: Arial, Helvetica, sans-serif;
-  }
+.page {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
