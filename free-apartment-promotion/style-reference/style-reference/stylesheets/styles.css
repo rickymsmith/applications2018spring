@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+}
+
+.page {
+	width: 100%;
+	margin: auto;
+	position: relative;
+}
+
+.page img {
+	width: 100%;
+}
+.page {
+    font-family:"Impact", Charcoal, sans-serif
+}
+
+.page {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.page1 {
+	font-family:"Open Sans", Charcoal, sans-serif;
+}
+
+.page1 {
+	width: 100%;
+	margin: auto;
+	position: relative;
+}
+
+.page1 {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
