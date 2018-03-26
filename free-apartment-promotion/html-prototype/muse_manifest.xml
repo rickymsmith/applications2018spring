@@ -1,0 +1,123 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="idk.com" resolutions="1x" timestamp="1522082215426">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="83598518" ref="info-bad:info:congrats:index"/>
+    <file name="info-bad.css" crc="3891648940" ref="info-bad"/>
+    <file name="info.css" crc="227078357" ref="info"/>
+    <file name="congrats.css" crc="3989952560" ref="congrats"/>
+    <file name="index.css" crc="320305405" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info:info-bad:congrats"/>
+    <file name="museutils.js" crc="3803043152" ref="index:info:info-bad:congrats"/>
+    <file name="whatinput.js" crc="86476730" ref="index:info:info-bad:congrats"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:info:info-bad:congrats"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:info:info-bad:congrats"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:congrats"/>
+    <file name="require.js" crc="4157109226" ref="index:info:info-bad:congrats"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="info:info-bad"/>
+    <file name="webpro.js" crc="242022427" ref="info:info-bad"/>
+    <file name="form_check.php" crc="147359589" ref="info"/>
+    <file name="form_throttle.php" crc="93986428" ref="info"/>
+    <file name="form_process.php" crc="3851993751" ref="info"/>
+    <file name="form-u1483.php" crc="4233484020" ref="info"/>
+    <file name="form-u1969.php" crc="4257046486" ref="info-bad"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 1920x94.jpg" crc="296339197" seo="true" ref="index:info:info-bad:congrats">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info-bad" alt=""/>
+      <caption webpage="congrats" alt=""/>
+      <caption webpage="congrats" alt=""/>
+    </file>
+    <file name="artwork-1.svg" crc="4044080148" seo="true" ref="index:info:info-bad:congrats">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info-bad" alt=""/>
+      <caption webpage="congrats" alt=""/>
+      <caption webpage="congrats" alt=""/>
+    </file>
+    <file name="artwork 1_poster_.png" crc="85841167" ref="index"/>
+    <file name="pasted image 646x136.png" crc="473525263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 891x131.png" crc="4045686581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 944x264.png" crc="4217026792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 741x129.png" crc="3915271015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 998x176.png" crc="207277223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 545x137.png" crc="494305433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork-3.svg" crc="3845568758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 3_poster_.png" crc="124355598" ref="index"/>
+    <file name="apartment.jpg" crc="4293382873" ref="index:congrats">
+      <caption webpage="index" alt=""/>
+      <caption webpage="congrats" alt=""/>
+    </file>
+    <file name="pasted image 676x1311.png" crc="3834642503" seo="true" ref="info:info-bad">
+      <caption webpage="info-bad" alt=""/>
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="513732622" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4247830771" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="488488871" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="511964773" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="3892053348" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4195749169" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="4041065271" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="421393327" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="119826174" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="8340162" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="461578639" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="3782867047" ref="info:info-bad">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="artwork-4.svg" crc="4225738007" seo="true" ref="info:info-bad">
+      <caption webpage="info-bad" alt=""/>
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="artwork 4_poster_.png" crc="3962057702" ref="info"/>
+    <file name="pasted image 808x885.png" crc="4144537733" seo="true" ref="congrats">
+      <caption webpage="congrats" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3759560611" seo="true" mt="1521678682000" redirect="true"/>
+  <file name="info.html" crc="4254946593" seo="true" mt="1522081750772" redirect="true"/>
+  <file name="info-bad.html" crc="4019373096" seo="true" mt="1522082140396" redirect="true"/>
+  <file name="congrats.html" crc="3926656551" seo="true" mt="1522081932344" redirect="true"/>
+</manifest>
